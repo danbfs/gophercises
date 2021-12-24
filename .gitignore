@@ -1,2 +1,3 @@
-quiz
-problems.csv
+# qa_problems binary and csv files
+qa_problems/quiz
+qa_problems/problems.csv
